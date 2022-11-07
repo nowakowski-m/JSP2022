@@ -1,8 +1,12 @@
-i = int(input("Podaj liczbę wierszy: "))
-y = list(range(0,(i+1)))
+i = int(input("Podaj liczbę kolumn. "))
 j = list(range(1,11))
 
-for k in range(len(j)):    
-    for x in range(len(y)):
-        z = x*j[k]
-        z
+x = 1
+while x <= i:
+    y = 0
+    for el in j:
+        z = el*x
+        print (z, end="\t")
+    x += 1
+    print ("")
+    
