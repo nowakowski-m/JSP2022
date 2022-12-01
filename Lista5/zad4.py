@@ -1,4 +1,4 @@
-def szyfr(text_inputed:str) -> str:
+def szyfr(text_inputed: str) -> str:
 
     textKey = {
         "a" : "y",
@@ -28,8 +28,8 @@ def odszyfr(szyfr):
         "e" : "y"
     }
 
-    textList = list(textSzyfred)
-    textLen = len(textSzyfred)
+    textList = list(szyfr)
+    textLen = len(szyfr)
 
     for x in range (0, textLen):
         if textList[x] != textStr[x]:
@@ -39,6 +39,9 @@ def odszyfr(szyfr):
     textOdszyfred = "".join(textList)
     return textOdszyfred
 
+
+
 textStr = str(input("Wprowadź tekst do zaszyfrowania: "))
-print("Zaszyfrowany:", szyfr(textStr))
-print("Odszyfrowany:", odszyfr(textSzyfred))
+res = szyfr(textStr)
+print(f"Zaszyfrowany: {res}")
+print("Odszyfrowany:", odszyfr(res))
