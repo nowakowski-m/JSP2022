@@ -1,0 +1,30 @@
+nr PESEL: 92911270656
+Data urodzenia: 12-11-1892	 płeć: Mężczyzna
+nr PESEL: 06102915776
+Data urodzenia: 29-10-1906	 płeć: Mężczyzna
+nr PESEL: 50020778753
+Data urodzenia: 07-02-1950	 płeć: Mężczyzna
+nr PESEL: 82871096474
+Data urodzenia: 10-7-1882	 płeć: Mężczyzna
+nr PESEL: 22101193179
+Data urodzenia: 11-10-1922	 płeć: Mężczyzna
+nr PESEL: 32010524144
+Data urodzenia: 05-01-1932	 płeć: Kobieta
+nr PESEL: 43281017369
+Data urodzenia: 10-8-2043	 płeć: Kobieta
+nr PESEL: 92300643773
+Data urodzenia: 06-10-2092	 płeć: Mężczyzna
+nr PESEL: 81690214595
+Data urodzenia: 02-9-2281	 płeć: Mężczyzna
+nr PESEL: 59302506778
+Data urodzenia: 25-10-2059	 płeć: Mężczyzna
+nr PESEL: 02052558449
+Data urodzenia: 25-05-1902	 płeć: Kobieta
+nr PESEL: 78830752156
+Data urodzenia: 07-3-1878	 płeć: Mężczyzna
+nr PESEL: 30031628982
+Data urodzenia: 16-03-1930	 płeć: Kobieta
+nr PESEL: 51052029239
+Data urodzenia: 20-05-1951	 płeć: Mężczyzna
+nr PESEL: 94860336777
+Data urodzenia: 03-6-1894	 płeć: Mężczyzna
